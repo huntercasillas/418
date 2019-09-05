@@ -1,6 +1,5 @@
 # Hunter Casillas
 
-
 def sequenceCount(sequence):
     a = sequence.count('A')
     c = sequence.count('C')
