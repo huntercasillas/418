@@ -1,6 +1,5 @@
 # Hunter Casillas
 
-
 def frequentWords(input, length):
     dict = {}
     inputSize = len(input)
