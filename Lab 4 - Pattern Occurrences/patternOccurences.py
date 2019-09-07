@@ -13,4 +13,4 @@ def patternOccurences(pattern, genome):
 pattern = "ATAT"
 genome = "GATATATGCATATACTT"
 
-patternOccurences(pattern, genome)
+patternOccurences(pattern, genome) 
