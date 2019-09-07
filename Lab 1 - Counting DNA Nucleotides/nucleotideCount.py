@@ -9,4 +9,4 @@ def nucleotideCount(sequence):
 
 testNucleotide = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"
 
-sequenceCount(testNucleotide) 
+nucleotideCount(testNucleotide) 
