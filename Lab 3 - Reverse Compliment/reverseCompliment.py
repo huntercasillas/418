@@ -21,4 +21,4 @@ def reverseCompliment(sequence):
 
 nucleotide = "AAAACCCGGT"
 
-reverseCompliment(nucleotide)
+reverseCompliment(nucleotide) 
